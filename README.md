@@ -8,7 +8,7 @@ Apache License 2.0
 
 Hello and Welcome This is my own attempted to get it reworking but for 32bit Devices and some 64bit devices will work.
 
-for 64bit Devices Plz use the BlueBoard-2 version https://github.com/turlodales/BlueBoard
+for 32bit Devices Plz use the BlueBoard version https://github.com/turlodales/BlueBoard
 
 This is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
 
