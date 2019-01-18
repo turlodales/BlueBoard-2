@@ -6,6 +6,10 @@ Apache License 2.0
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+Hello and Welcome This is my own attempted to get it reworking but for 32bit Devices and some 64bit devices will work.
+
+for 64bit Devices Plz use the SpinSettings-2 version https://github.com/turlodales/BlueBoard
+
 This is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
 
 My own plan is to make it work from see below
@@ -21,7 +25,7 @@ my plain is to make a working verson of BlueBoard 2 for ios 11.0 to 12.0
 
 why am i putting is on github:
 
-for one resaon only extra backup i have the project on my mac mini, my own freenas server, and github so if any one of them gets cruppted i have backup saved.
+for one resaon only extra backup i have the project on my mac mini 2012, my MacBook Pro 2012 my own freenas server system, and github so if any one of them gets cruppted i have backup saved.
 
 My own road map
 - [x] Step 1 = Get read me finished 
@@ -29,109 +33,36 @@ My own road map
 - [ ] Step 3 = Get it working on My Own Devices
 - [ ] Step 4 = Get New Devices or ask for Beta Testers
 - [ ] Step 5 = Fix bugs 
-- [ ] Step 6 = Try and make 64bit only verson
-- [ ] Step 7 = Relise to the public
-- [ ] Step 8 = Update when needed 
+- [ ] Step 6 = Relise to the public
+- [ ] Step 7 = Update when needed 
 
 
 # Not Supported Devices Yet above iOS 10
 | Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
 |---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5      | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-| iPhone 5C     | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
-| iPhone 5S     | Planned | iPad Mini 3 | Planned |- | - |- | - |
-| iPhone 6      | Planned | iPad Mini 4 | Planned |- | - |- | - |
-| iPhone 6+     | Planned | iPad Air    | Planned |- | - |- | - |
-| iPhone SE     | Planned | iPad Air 2  | Planned |- | - |- | - |
-| iPhone 6S     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
-| iPhone 6S+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
-| iPhone 7      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
-| iPhone 7+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
-| iPhone 8      | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
-| iPhone 8+     | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
-| iPhone X      | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
-| iPhone XS     | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
-| iPhone XS Max | Planned |- | -|- | - |- | - |
-| iPhone XR     | Planned |- | - |- | - |
+| iPhone 5S       | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
+| iPhone 6      | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+| iPhone 6+    | Planned | iPad Mini 3 | Planned |- | - |- | - |
+| iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
+| iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
+| iPhone 6S+     | Planned | iPad Air 2  | Planned |- | - |- | - |
+| iPhone 7     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+| iPhone 7+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
+|  iPhone 8      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
+|  iPhone 8+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
+|   iPhone X   | Planned |iPad Pro 10.5-inch (2nd Gen)| Planned |- | - |- | - |
+| iPhone XS    | Planned |iPad 2018          (6th Gen)| Planned |- | - |- | - |
+| iPhone XS Max      | Planned |iPad Pro 11-inch   (3rd Gen)| Planned |- | - |- | - |
+| iPhone XR      | Planned |iPad Pro 12.9-inch (3rd Gen)| Planned |- | - |- | - |
 
-Note: i do have a iPad Air 2 but broken screen but running 10.2
 
-# Devices 32Bit
+Notes: 
 
-| Device | Supports |
+| Number | Decsription |
 |---------|----------|
-| iPhone 4S | iOS 9.3.3/9.3.5 |
-| iPhone 5 | iOS 9.3.3 |
-| iPhone 5C | iOS 10.3.3 |
+| 1 | i do have a iPad Air 2 but broken screen but running 10.2 |
+| 2 | iPhone 6 got off friend on iOS 12.0 no shsh2 blobs so cant downgrade below 12.0 |
 
-# Not Supported 32bit Devices (MAY Work But NOT Tested as i dont have yet)
-| Device | Supports |
-|---------|----------|
-| iPod Touch 5 | Untested |
-| iPad 2 | Untested |
-| iPad Mini 1 | Untested |
-
-
-# Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS      |4        |4S       |5        |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0  |Untested |Untested |Untested |-        |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.1|No JB    |No JB    | No JB   |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
-|iOS 7.0.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.3|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.4|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.0.5|No JB    |No JB    |No JB    |Untested |No JB    |No JB    |No JB    |No JB    |No JB    |
-|iOS 7.0.6|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1  |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.1|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-|iOS 7.1.2|Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |Untested |
-
-
-# Supported Devices iOS 8.0 to iOS 8.3
-|iOS       |4S        |5         |5C        |iPod Touch 5|iPad 2  |iPad 3    |iPad 4   |iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.1 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.0.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1   | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.2 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.1.3 | Untested |Untested  |Untested  |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.2   | working  |Untested  |working   |Untested  |         -|Untested  |Untested  |Untested|
-|iOS 8.3   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4   | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |Untested  |Untested|
-|iOS 8.4.1 | Untested |Untested  |Untested  |Untested  |Untested  |Untested  |NO JB     |Untested|
-
-# Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS        |4S      |5       |5C       |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Mini 1|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| iOS 9.0   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.0.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.0.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.1   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.2   |Working |Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.2.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3   |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.1 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.2 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.3 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.4 |Untested|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-| iOS 9.3.5 | working|Untested|Untested|Untested|Untested|Untested|Untested|Untested|
-
-# Supported Devices iOS 10.0 to iOS 10.3.3
-|iOS         |       5| 5C     |iPod Touch 5|iPad 4|
-|----------|----------|----------|----------|----------|
-| iOS 10.0   | Untested|Untested|Untested|Untested|
-| iOS 10.0.1 | Untested|Untested|Untested|Untested|
-| iOS 10.0.2 | Untested|Untested|Untested|Untested|
-| iOS 10.0.3 | Untested|Untested|Untested|Untested|
-| iOS 10.1   | Untested|Untested|Untested|Untested|
-| iOS 10.1.1 | Untested|Untested|Untested|Untested|
-| iOS 10.2   | Untested|Untested|Untested|Untested|
-| iOS 10.2.1 | Untested|Untested|Untested|Untested|
-| iOS 10.3   | Untested|Untested|Untested|Untested|
-| iOS 10.3.1 | Untested|Untested|Untested|Untested|
-| iOS 10.3.2 | Untested|Untested|Untested|Untested|
-| iOS 10.3.3 | Untested|working |Untested|Untested|
 
 # Devices 64Bit
 
@@ -253,7 +184,9 @@ Note: i do have a iPad Air 2 but broken screen but running 10.2
 |iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.1 Beta 1 |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO  |NO|NO  |NO |-|-|NO|NO|
+|iOS 12.1.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.2   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
+|iOS 12.1.3 b4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 
 -----------------------------------------------------------------------------------------------------------------------------
 
