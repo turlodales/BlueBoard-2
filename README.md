@@ -192,6 +192,12 @@ Notes:
 |iOS 12.1.4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
 |iOS 12.2    |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
 |iOS 12.3 3beta   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+
+
+# Supported Devices iOS 13.0 to iOS 13.X.X 
+|iOS|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 7|Apple TV 4|Apple TV  4K|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 13.0   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
 -----------------------------------------------------------------------------------------------------------------------------
 
 
