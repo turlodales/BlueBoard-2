@@ -8,9 +8,11 @@ Apache License 2.0
 
 Hello and Welcome This is my own attempted to get it reworking but for 32bit Devices and some 64bit devices will work.
 
-for 32bit Devices Plz use the BlueBoard version https://github.com/turlodales/BlueBoard
-
-for iPadOS Devices Plz use the BlueBoard version https://github.com/turlodales/BlueBoard-iPadOS
+| Decsription | Link|
+|---------|----------|
+| BlueBoard (32/64bit) | https://github.com/turlodales/BlueBoard |
+| BlueBoard-2 (iPadOS) | https://github.com/turlodales/BlueBoard-2-iPadOS |
+| BlueBoard-2 (TVOS)   | https://github.com/turlodales/BlueBoard-2-TVOS |
 
 This is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
 
