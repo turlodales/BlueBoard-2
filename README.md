@@ -41,10 +41,10 @@ My own road map
 
 
 # Not Supported Devices Yet above iOS 10
-| Device        | Staus   | Device                     | Staus | Device       | Staus   | Device     | Staus   |
-|---------|----------|---------|----------|---------|----------|---------|----------|
-| iPhone 5S       | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |Apple TV4   | Planned |
-| iPhone 6      | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |Apple TV 4K | Planned |
+| Device        | Staus   | Device                     | Staus | Device       | Staus   | 
+|---------|----------|---------|----------|---------|----------|
+| iPhone 5S       | Planned | iPad Mini 1 | Planned              | iPod Touch 5 | Planned |
+| iPhone 6      | Working | iPad Mini 2 | Planned              | iPod Touch 6 | Planned |
 | iPhone 6+    | Planned | iPad Mini 3 | Planned |- | - |- | - |
 | iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
 | iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
@@ -128,77 +128,80 @@ Notes:
 
 
 # Supported Devices iOS 9.0 to iOS 9.3.5
-|iOS       |5S |6  |6+ |6S |6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|Apple TV 4|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 9.0   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |NO|
-|iOS 9.0.1 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |NO|
-|iOS 9.0.2 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |NO|
-|iOS 9.1   |NO JB |NO |NO |NO |NO |- |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
-|iOS 9.2   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
-|iOS 9.2.1 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |NO|
-|iOS 9.3   |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
-|iOS 9.3.1 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
-|iOS 9.3.2 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
-|iOS 9.3.3 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |NO|
-|iOS 9.3.4 |NO JB|NO |NO |NO |NO |NO |NO JB      |NO JB    |NO JB            |NO JB                 |NO            |NO |NO |NO |NO|
-|iOS 9.3.5 |NO JB|NO JB|NO JB|NO JB|NO JB|NO   |NO         |NO JB    |NO JB            |NO JB            |NO            |NO |NO |NO |NO|
+|iOS       |5S |6  |6+ |6S |6S+|SE|iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch)1st gen|iPad Pro (9.7 inch)1st gen|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 9.0   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |
+|iOS 9.0.1 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |
+|iOS 9.0.2 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |-                     |-             |NO |NO |NO |
+|iOS 9.1   |NO JB |NO |NO |NO |NO |- |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |
+|iOS 9.2   |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |
+|iOS 9.2.1 |NO |NO |NO |NO |NO |-    |NO         |NO       |NO               |NO                    |-             |NO |NO |NO |
+|iOS 9.3   |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |
+|iOS 9.3.1 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |
+|iOS 9.3.2 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |
+|iOS 9.3.3 |NO |NO |NO |NO |NO |NO   |NO         |NO       |NO               |NO                    |NO            |NO |NO |NO |
+|iOS 9.3.4 |NO JB|NO |NO |NO |NO |NO |NO JB      |NO JB    |NO JB            |NO JB                 |NO            |NO |NO |NO |
+|iOS 9.3.5 |NO JB|NO JB|NO JB|NO JB|NO JB|NO   |NO         |NO JB    |NO JB            |NO JB       |NO            |NO |NO |NO |
 
 # Supported Devices iOS 10.0 to iOS 10.3.3
-|iOS|5S|6|6+|6S|6S+|SE|7|7+          |iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|Apple TV 4|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 10.0    |- |- |- |- |- |- |NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.0.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.0.2  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.0.3  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.1    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.1.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.2    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |YES|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.2.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |NO|
-|iOS 10.3    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |- |-   |NO|NO|NO         |NO|
-|iOS 10.3.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |- |-   |NO|NO|NO         |NO|
-|iOS 10.3.2  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |NO|NO  |NO|NO|NO         |NO|
-|iOS 10.3.3  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |NO|NO  |NO|NO|NO         |NO|
+|iOS|5S|6|6+|6S|6S+|SE|7|7+          |iPod Touch 6|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad Mini 2|iPad Mini 3|iPad Mini 4|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 10.0    |- |- |- |- |- |- |NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.0.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.0.2  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.0.3  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.1    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.1.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.2    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |YES|NO  |-    |- |-   |NO|NO|NO        |
+|iOS 10.2.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |-    |- |-   |NO|NO|NO         |
+|iOS 10.3    |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |- |-   |NO|NO|NO         |
+|iOS 10.3.1  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |- |-   |NO|NO|NO         |
+|iOS 10.3.2  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |NO|NO  |NO|NO|NO         |
+|iOS 10.3.3  |NO|NO|NO|NO|NO|NO|NO|NO    |NO        |NO         |NO              |NO|NO  |NO   |NO|NO  |NO|NO|NO         |
 
 
 # Supported Devices iOS 11.0 to iOS 11.4.1 
 
-|iOS      |5S|6|6+|6S|6S+|SE|7|7+|8|8+|X|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV 4K|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 11.0     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.0.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.0.2   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.0.3   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.1     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.1.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.1.2   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.2     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.2.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.2.2   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.2.5   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |NO|NO|
-|iOS 11.3     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.3.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.4     |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
-|iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |NO|NO|
+|iOS      |5S|6|6+|6S|6S+|SE|7|7+|8|8+|X|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 11.0     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.0.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.0.2   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.0.3   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|-      |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.1     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.1.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.1.2   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.2     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.2.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.2.2   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.2.5   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |-              |
+|iOS 11.3     |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
+|iOS 11.3.1   |NO|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO     |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
+|iOS 11.4     |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
+|iOS 11.4.1   |NO JB|NO|NO|NO|NO|NO|NO|NO|NO|NO|NO  |NO    |NO|NO|NO   |NO|NO   |NO|NO   |NO   |NO|NO    |NO             |
 
 
 # Supported Devices iOS 12.0 to iOS 12.3 
-|iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|Apple TV 4|Apple TV  4K|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|----------|----------|
-|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.1   |NO |NO|NO |NO|Yes |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.2   |NO |NO|NO |NO|NO |Yes |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.1.4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |NO|NO|
-|iOS 12.2    |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
-|iOS 12.3 3beta   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |NO|NO|
+|iOS|5S|6|6+|6S|6S+|SE|7|7+|8|8+|XS|XS Max|XR|iPod Touch 6|iPad Mini 2|iPad Mini 3|iPad Mini 4|iPad Air|iPad Air 2|iPad Pro (12.9 inch) 1st gen|iPad Pro (9.7 inch) 1st gen|iPad 5 2017|iPad Pro (12.9 inch, 2nd gen)|iPad Pro (10.5 inch 2nd gen)|iPad 6 2018|iPad Pro 11-inch (3rd Gen)|iPad Pro 12.9-inch (3rd Gen)|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------- |---------- |---------- |----------|----------|
+|iOS 12.0     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.0.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.1     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.1.1   |NO |NO|NO |NO|Yes |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.1.2   |NO |NO|NO |NO|NO |Yes |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.1.3   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.1.4   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO   |NO   |NO|NO   |NO   |-|- |
+|iOS 12.2     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
+|iOS 12.3     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
+|iOS 12.4     |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
+|iOS 12.4.1   |NO |NO|NO |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO  |NO  |NO|NO|NO  |NO|NO  |NO|NO  |NO |NO|NO |NO |NO|NO |
 
 
 # Supported Devices iOS 13.0 to iOS 13.X.X 
-|iOS|6S|6S+|SE|7|7+|8|8+|X|XS|XS Max|XR|iPod Touch 7|Apple TV 4|Apple TV  4K|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 13.0   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO|NO|NO|NO |NO |NO  |NO|NO|
+|iOS|6S|6S+|SE|7|7+|8|8+|X|XS|XS Max|XR|iPod Touch 7|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 13.0   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO|NO|NO|NO |NO |NO  |
+|iOS 13.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO|NO|NO|NO |NO |NO  |
 -----------------------------------------------------------------------------------------------------------------------------
 
 
