@@ -87,7 +87,7 @@ Notes:
 | iPad Air 2 | iOS 9.3.3 |
 | iPad Pro (12.9 inch) 1st gen |10.2|
 | iPad Pro 12.9-inch (3rd Gen)| Planned |
-| Apple TV 4|planned|
+
 
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |Device | Supports |Device | Supports |
