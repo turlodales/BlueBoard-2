@@ -51,7 +51,7 @@ My own road map
 | iPhone SE     | Planned | iPad Mini 4 | Planned |- | - |- | - |
 | iPhone 6S     | Planned | iPad Air    | Planned |- | - |- | - |
 | iPhone 6S+     | Planned | iPad Air 2  | Planned |- | - |- | - |
-| iPhone 7     | Planned |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
+| iPhone 7     | 13.1.2 |iPad Pro 12.9-inch (1st Gen)| Planned |- | - |- | - |
 | iPhone 7+    | Planned |iPad Pro 9.7-inch  (1st Gen)| Planned |- | - |- | - |
 | iPhone 8      | Planned |iPad 2017          (5th Gen)| Planned |- | - |- | - |
 | iPhone 8+     | Planned |iPad Pro 12.9-inch (2nd Gen)| Planned |- | - |- | - |
@@ -82,6 +82,7 @@ Notes:
 | iPhone 6S  | iOS 9.3.3 |
 | iPhone 6S+ | planned |
 | iPhone SE  | Planned |
+| iPhone 7  | 13.1.2 |
 | iPhone 8+  | Planned |
 | iPhone 11 Pro Max  | Planned |
 | iPad Air 2 | iOS 9.3.3 |
@@ -92,16 +93,16 @@ Notes:
 # Not Supported 64bit Devices  (MAY Work But NOT Tested as i dont have yet)
 | Device | Supports |Device | Supports |Device | Supports |
 |---------|----------|---------|----------|---------|----------|
-| iPhone 7  | Planned | iPad Air | Planned |iPod Touch 6 | planned |
-| iPhone 7+ | planned | iPad Mini 2 | Planned |-|-|
-| iPhone 8  | planned | iPad Mini 3 | Planned |-|-|
-| iPhone X  | planned | iPad Mini 4 | Planned |-|-|
-| iPhone XR | planned | iPad 2017 | Planned |-|-|
-| iPhone XS | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
-| iPhone XS Max  | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
-| iPhone 11 | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
-| iPhone 11 Pro | planned | iPad 2018 | Planned |-|-|
-| - | planned | iPad Pro 11-inch (3rd Gen| Planned |-|-|
+| iPhone 7+  | Planned | iPad Air | Planned |iPod Touch 6 | planned |
+| iPhone 8 | planned | iPad Mini 2 | Planned |-|-|
+| iPhone X  | planned | iPad Mini 3 | Planned |-|-|
+| iPhone XR  | planned | iPad Mini 4 | Planned |-|-|
+| iPhone XS | planned | iPad 2017 | Planned |-|-|
+| iPhone XS Max | planned | iPad Pro (9.7 inch 1st gen | Planned |-|-|
+| iPhone 11  | planned | iPad Pro (12.9 inch) 2nd gen|Planned|-|-|
+| iPhone 11 Pro | planned | iPad Pro (10.5 inch) 2nd gen| Planned |-|-|
+| - | - | iPad 2018 | Planned |-|-|
+| - | - | iPad Pro 11-inch (3rd Gen| Planned |-|-|
 
 
 
@@ -213,13 +214,12 @@ Notes:
 |iOS 13.0     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.1     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.1.1   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.1.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
+|iOS 13.1.2   |NO|NO |NO |Yes|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.1.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.2   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 |iOS 13.2.3   |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-|iOS 13.3 (Beta 2)    |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
-
+|iOS 13.3     |NO|NO |NO |NO|NO |NO|NO |NO|NO |NO |NO|NO |NO  |NO|NO|NO   |NO|
 -----------------------------------------------------------------------------------------------------------------------------
 
 
